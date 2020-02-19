@@ -24,7 +24,7 @@ config :logger, :console,
 config :phoenix, :json_library, Jason
 
 # LiveView
-config :my_app, MyAppWeb.Endpoint,
+config :counter, CounterWeb.Endpoint,
    live_view: [
      signing_salt: "z/M5mbYqb8POj+XDtOXYvGnvXL1iRpyQ"
    ]

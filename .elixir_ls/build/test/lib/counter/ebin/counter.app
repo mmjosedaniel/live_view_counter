@@ -6,6 +6,7 @@
               {modules,['Elixir.Counter','Elixir.Counter.Application',
                         'Elixir.CounterWeb','Elixir.CounterWeb.ChannelCase',
                         'Elixir.CounterWeb.ConnCase',
+                        'Elixir.CounterWeb.CounterLive',
                         'Elixir.CounterWeb.Endpoint',
                         'Elixir.CounterWeb.ErrorHelpers',
                         'Elixir.CounterWeb.ErrorView',
